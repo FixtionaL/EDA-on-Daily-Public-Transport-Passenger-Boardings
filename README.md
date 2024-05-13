@@ -20,4 +20,4 @@ Welcome to the Public Transport Patronage EDA repository! In this project, we co
 By following these processes and tasks, we aim to derive meaningful insights from the public transport patronage data, ultimately contributing to the enhancement of transportation services and infrastructure planning. Feel free to explore the repository and engage with the analysis to gain a deeper understanding of the dataset and its implications. Your feedback and contributions are highly valued as we strive for data-driven excellence in public transport management.
 
 Below is the EDA Report for your Reference 
-([EDA Report](https://www.example.com))
+([EDA Report](https://docs.google.com/document/d/1U2WQj8UoCR1uRZqMqOzTq60651RfRYCsFv9q23NwZsk/edit?usp=sharing))
