@@ -1,11 +1,9 @@
-# Description
-This repository contains exploratory data analysis (EDA) on a dataset of daily public transport patronage, focusing on different types of tickets, including MyWay cards and paper tickets (excluding those purchased from Ticket Vending Machines). The dataset excludes patronage for special events.
 
-## Public Transport Patronage EDA
+# Public Transport Patronage EDA
 
 Welcome to the Public Transport Patronage EDA repository! In this project, we conduct an in-depth exploratory data analysis (EDA) on a dataset containing daily public transport patronage data. The dataset includes information on different types of tickets, such as MyWay cards and paper tickets, excluding those purchased from Ticket Vending Machines. Additionally, patronage for special events is excluded from the dataset.
 
-### Processes and Tasks:
+## Processes and Tasks:
 
 1. **Data Acquisition**: The first step involves acquiring the dataset containing public transport patronage data. This dataset may be sourced from relevant transportation authorities or agencies responsible for collecting and maintaining such data.
 
