@@ -9,8 +9,7 @@ Welcome to the Public Transport Patronage EDA repository! In this project, we co
 
 2. **Exploratory Data Analysis (EDA)**: The core of this project revolves around conducting EDA on the cleaned dataset. During this phase, we explore various aspects of the data to gain insights and understand underlying patterns and trends. Key tasks include:
    - Analyzing the distribution of different ticket types (e.g., MyWay cards vs. paper tickets).
-   - Examining temporal trends in patronage over time, including daily, weekly, and seasonal variations.
-   - Comparing patronage patterns between weekdays and weekends.
+   - Examining temporal trends in patronage over time, including seasonal variations.
    - Identifying correlations between different ticket types and other relevant factors.
    - Creating informative visualizations to illustrate findings and facilitate data interpretation.
 
